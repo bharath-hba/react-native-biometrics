@@ -1,9 +1,3 @@
-//
-//  ReactNativeBiometrics.m
-//
-//  Created by Brandon Hines on 4/3/18.
-//
-
 #import "ReactNativeBiometrics.h"
 #import <LocalAuthentication/LocalAuthentication.h>
 #import <Security/Security.h>
