@@ -37,6 +37,7 @@ RCT_EXPORT_METHOD(isSensorAvailable: (NSDictionary *)params resolver:(RCTPromise
     NSString *errorMessage = [NSString stringWithFormat:@"%@", la_error];
     NSDictionary *result = @{
       @"available": @(NO),
+      @"biometryType": biometryType,
       @"error": errorMessage
     };
 
