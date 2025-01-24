@@ -1,5 +1,5 @@
 {
-  "name": "react-native-biometrics",
+  "name": "rn-bio-auth",
   "version": "3.0.1",
   "summary": "A React Native library for biometrics",
   "description": "React Native biometric functionality for signing and encryption",
@@ -24,23 +24,23 @@
     "touch-id",
     "face-id"
   ],
-  "homepage": "https://github.com/SelfLender/react-native-biometrics",
+  "homepage": "https://github.com/bharath-hba/rn-bio-auth",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SelfLender/react-native-biometrics.git"
+    "url": "git+https://github.com/bharath-hba/rn-bio-auth.git"
   },
   "private": false,
   "author": {
-    "name": "Brandon Hines",
-    "url": "https://github.com/NappyPirate"
+    "name": "HBA",
+    "url": "https://github.com/bharath-hba"
   },
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.60.0"
   },
   "bugs": {
-    "url": "https://github.com/SelfLender/react-native-biometrics/issues"
+    "url": "https://github.com/bharath-hba/rn-bio-auth/issues"
   },
   "devDependencies": {
     "typescript": "^3.7.2"
